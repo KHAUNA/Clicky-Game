@@ -8,11 +8,19 @@ class ImageContainer extends Component {
 state = {
   people
 }
+  // saveBaseState = () => {
+  //   this.baseState = this.state
+  // }
+  // saveBaseState()
+
+  // resetState = () => this.setState(this.baseState)
+  //need condition to reset state
 
   removeImage = id => {
-    const people = this.state.people.map(element => element.id !== id)
-
+ 
+    const people = this.state.people.filter(element => element.id !== id)
     this.setState({people});
+
   }
 
 
