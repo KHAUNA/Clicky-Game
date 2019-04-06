@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Robot Santa",
+      "image": "https://imgur.com/WLtPza6.png"
+    },
+    {
+        "id": 2,
+        "name": "Bender Bending Rodriguez",
+        "image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/43/Bender.png/revision/latest/top-crop/width/200/height/150?cb=20150206072725"
+    },
+    {
+        "id": 3,
+        "name": "Roberto",
+        "image": "https://vignette.wikia.nocookie.net/en.futurama/images/9/96/Futurama_roberto.png/revision/latest/top-crop/width/200/height/150?cb=20110619182621"
+    },
+    {
+        "id": 4,
+        "name": "BeelzeBot",
+        "image": "https://vignette.wikia.nocookie.net/en.futurama/images/e/ea/RobotDevil.jpg/revision/latest/top-crop/width/200/height/150?cb=20111024080305"
+    },
+    {
+        "id": 5,
+        "name": "Calculon",
+        "image": "https://vignette.wikia.nocookie.net/en.futurama/images/b/b3/Calculon-2.JPG/revision/latest/top-crop/width/200/height/150?cb=20090604015557"
+    },
+    {
+        
+    }
+]
